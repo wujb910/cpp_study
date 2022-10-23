@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     float a, b;
-    uint r;
+    unsigned int r;
     cin >> a >> b;
     r = 1 / (1 / a + 1 / b);
     cout << r << endl;

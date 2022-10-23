@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    uint n;
+    unsigned int n;
     cin >> n;
     if (n <= 10)
     {
